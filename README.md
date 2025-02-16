@@ -1,3 +1,3 @@
 ## Hello, I’m Cláudio Silva 👋
 
-[![Blog](https://img.shields.io/github/watchers/{username}/{repo-name}.svg)](https://github.com/kiureeex/kiureeex)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kiureeex_007)
