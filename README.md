@@ -8,3 +8,4 @@
 💭 Discord: kiureeex
 
 ![kiureeex GitHub stats](https://github-readme-stats.vercel.app/api?username=kiureeex&theme=blue-green)
+![kiureeex GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kiureeex&theme=blue-green)
