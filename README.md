@@ -7,4 +7,4 @@
 📷 Instagram: _claudeeex_07
 💭 Discord: kiureeex
 
-![kiureeex GitHub stats](https://github-readme-stats.vercel.app/api?username={kiureeex}&theme=blue-green)
+![kiureeex GitHub stats](https://github-readme-stats.vercel.app/api?username=(kiureeex)&theme=blue-green)
