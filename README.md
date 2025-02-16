@@ -1,3 +1,10 @@
 ## Hello, I’m Cláudio Silva 👋
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kiureeex_007)                 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_claudeeex_07/)  
+## Student at 42 Porto 💻 / Video Editor 📷
+
+🪼 I am a full-time programmer developing software and projects for 42 Porto, aiming to improve my skills in this field. In my free time, I work as a video editor for various YouTube highlight channels, covering any video style.
+
+📷 Instagram: _claudeeex_07
+💭 Discord: kiureeex
+
+![kiureeex GitHub stats](https://github-readme-stats.vercel.app/api?username={kiureeex}&theme=blue-green)
