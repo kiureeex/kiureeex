@@ -9,3 +9,7 @@ Student at 42 Porto 💻 & Video Editor 📷
 
 ![kiureeex GitHub stats](https://github-readme-stats.vercel.app/api?username=kiureeex&theme=blue-green)
 ![kiureeex GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kiureeex&theme=blue-green)
+
+<div style="text-align: center;">
+  <img src=""C:\Users\Kiurex\Downloads\hollow-knight-waking-up.gif"" alt="Gif">
+</div>
