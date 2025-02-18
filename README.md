@@ -11,6 +11,6 @@ Student at 42 Porto 💻 & Video Editor 📷
 ![kiureeex GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kiureeex&theme=blue-green)
 
 <div style="text-align: center;">
-  <p style="visibility: hidden;">Texto invisível</p>
+<hr style="border: none; border-top: 1px dashed #000;"/>
   <img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" alt="Gif" style="margin: auto; display: block;">
 </div>
