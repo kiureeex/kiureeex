@@ -10,7 +10,7 @@ Hi there! I’m **Cláudio Silva**, a full-time programmer at **42 Porto** and a
 - **Video Editing**: DaVinci Resolve  
 
 ## 📽️ Notable Projects  
-➡️ **[HealthLife - APP](https://github.com/kiureeex/briefcase)**: A project developed in partnership with the **Faculty of Sports of the University of Porto (FADEUP)**, aimed at helping healthcare professionals conduct better analyses of their patients. It uses the **mobile phone's inertial sensor** to efficiently collect and transfer walking data from patients.
+➡️ **[HealthLife - APP](https://github.com/kiureeex/pap)**: A project developed in partnership with the **Faculty of Sports of the University of Porto (FADEUP)**, aimed at helping healthcare professionals conduct better analyses of their patients. It uses the **mobile phone's inertial sensor** to efficiently collect and transfer walking data from patients.
 
 
 ## 🌐 Contact  
